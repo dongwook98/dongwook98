@@ -1,7 +1,5 @@
 ## 동욱
 
-<hr>
-
 Email : ehddnr8563@gmail.com
 
 Blog : https://dongwook98.tistory.com/
@@ -9,8 +7,6 @@ Blog : https://dongwook98.tistory.com/
 Notion :
 
 ## Skills
-
-<hr>
 
 Strong : HTML/CSS, JavaScript, React
 
