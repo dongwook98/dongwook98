@@ -2,8 +2,6 @@
 
 Email : ehddnr8563@gmail.com
 
-Blog : https://dongwook98.tistory.com/
-
 Notion :
 
 ## Skills
